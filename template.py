@@ -21,7 +21,8 @@ list_of_files=[
     "params.yaml",
     "requirements.txt",
     "setup.py",
-    "research/trials.ipynb"#Notebook for any trials done
+    "research/trials.ipynb",#Notebook for any trials done
+    "templates/index.html"
 ]
 
 #Any new file in the later stage, just add it here and run the template.py file only that file will be created.
